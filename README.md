@@ -1,2 +1,2 @@
 # Popper
-A 2d bubble popping game
+Stores the privacy policy for the Popper game
